@@ -5,12 +5,12 @@ const STATIC_DATA = [
   {
     paket: "A (SD)",
     mapel: "AGAMA ISLAM",
-    link: "https://sita.vercel.app/",
+    link: "https://sita-opal.vercel.app/",
   },
   {
     paket: "B (SMP)",
     mapel: "BAHASA INGGRIS",
-    link: "https://citra.vercel.app/",
+    link: "https://citra-three.vercel.app/",
   },
   {
     paket: "B (SMP)",
@@ -20,12 +20,12 @@ const STATIC_DATA = [
   {
     paket: "C (SMA)",
     mapel: "AGAMA ISLAM",
-    link: "https://mariana.vercel.app/",
+    link: "https://mariana-hazel.vercel.app/",
   },
   {
     paket: "C (SMA)",
     mapel: "AGAMA ISLAM",
-    link: "https://yeyen.vercel.app/",
+    link: "https://yeyen-five.vercel.app/",
   },
 ];
 

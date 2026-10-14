@@ -24,7 +24,7 @@ const STATIC_DATA = [
   },
   {
     paket: "C (SMA)",
-    mapel: "AGAMA ISLAM",
+    mapel: "BAHASA INDONESIA",
     link: "https://yeyen-five.vercel.app/",
   },
 ];
